@@ -8,9 +8,9 @@
 
 | # | Name | Role |
 |---|------|------|
-| 1 | Member 1 | ML Engineer |
-| 2 | Member 2 | ML Engineer |
-| 3 | Member 3 | ML Engineer |
+| 1 | Lokendra Sonwani | B.Tech Student|
+| 2 | Akash Prajapati | B.Tech Student |
+| 3 | Nitin Singh | B.Tech Student |
 
 ## Overview
 
