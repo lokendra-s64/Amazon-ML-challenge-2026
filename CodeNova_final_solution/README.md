@@ -107,6 +107,12 @@ python validate_submission.py --matching output/matching_results.tsv --candidate
 - ✅ Matched IDs ⊆ Candidate IDs
 - ✅ `validate_submission.py` → **PASS**
 
+## Submission Proof
+
+![Submission Proof 1](proof/IMG-20260927-WA0024.jpg)
+
+![Submission Proof 2](proof/IMG-20260927-WA0025.jpg)
+
 ## License
 
 MIT License — compliant with challenge requirements.
