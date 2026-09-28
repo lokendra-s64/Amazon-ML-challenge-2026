@@ -1,0 +1,10 @@
+{
+  "executionEnvironments": [
+    {
+      "root": "code/business_entity_resolution/src"
+    }
+  ],
+  "extraPaths": ["code/business_entity_resolution/src"],
+  "reportMissingImports": "none",
+  "reportMissingModuleSource": "none"
+}

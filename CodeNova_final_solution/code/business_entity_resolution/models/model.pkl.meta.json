@@ -1,0 +1,20 @@
+{
+  "threshold": 0.9500000000000002,
+  "feature_columns": [
+    "block_score",
+    "name_exact_norm",
+    "name_lev_ratio",
+    "name_token_jaccard",
+    "name_token_sort_ratio",
+    "name_char3gram_jaccard",
+    "name_first_token_match",
+    "addr_lev_ratio",
+    "addr_token_jaccard",
+    "addr_char3gram_jaccard",
+    "postal_match",
+    "postal_both_present",
+    "same_country",
+    "name_len_diff",
+    "addr_len_diff"
+  ]
+}

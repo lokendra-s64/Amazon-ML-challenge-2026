@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.pytest_cache/
+.mypy_cache/
+
+# Data (too large for git)
+dataset/
+*.tsv
+!output/*.tsv
+
+# Models (large binary)
+code/business_entity_resolution/models/*.pkl
+
+# Logs
+*.log
+train_log.txt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Submission zip (optional - large)
+CodeNova_submission.zip
+
+# Temp
+output/New folder/
+submission_package/
+verify_zip*/

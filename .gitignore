@@ -1,0 +1,41 @@
+# === Python ===
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# === Virtual Environments ===
+.venv/
+venv/
+env/
+
+# === IDE & OS ===
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# === Kilo / Agent Tools ===
+.kilo/
+
+# === Large Data & Models ===
+*.tsv
+*.pkl
+*.zip
+!CodeNova_final_solution/output/*.tsv
+
+# === Logs ===
+*.log
+train_log.txt
+
+# === Temp Folders ===
+CodeNova_final_solution/output/New folder/
+submission_package/
+verify_zip*/
